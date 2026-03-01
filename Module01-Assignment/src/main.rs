@@ -1,4 +1,4 @@
-/* 
+
 // Commented out other assignments as Rust only runs one main file. Can uncomment other files and keep one uncommented.
 
 // =================================================
@@ -40,7 +40,7 @@ fn main() {
     }
     // wanted them in two decimal places
 }
-*/
+
 
 // =================================================
 // ASSIGNMENT 2 HERE (uncomment to see Assignment 2)
@@ -99,7 +99,7 @@ println! ("Number Analysis:");
 }
 */
 
-
+/* 
 // =================================================
 // ASSIGNMENT 3
 // =================================================
@@ -157,3 +157,4 @@ After the loop ends, print how many guesses it took (you'll need to track this i
     println!("It took {} guesses.", guess_count);
 }
 
+*/
